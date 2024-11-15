@@ -52,5 +52,10 @@ I contributi a Basic Classroom Media sono i benvenuti! Se desideri contribuire, 
 
 ## Licenza
 
-Questo progetto è distribuito con la licenza [MIT License](LICENSE).
+Questo progetto è distribuito sotto la Licenza MIT - vedi il file [LICENSE](LICENSE) per ulteriori dettagli.
+
+
+## Autore
+
+Questo progetto è stato creato da [alessandromasone](https://github.com/alessandromasone).
 
